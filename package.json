@@ -1,0 +1,10 @@
+{
+  "name": "343-Authentication",
+  "description": "Generates a valid SpartanToken, using HaloWaypoint",
+  "author": "Connor Tumbleson <connor.tumbleson@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "phantom": "0.5.7",
+    "casperjs": "1.1.0-beta3"
+  }
+}
