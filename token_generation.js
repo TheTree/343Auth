@@ -14,7 +14,7 @@ casper.then(function() {
 
         document.querySelector('#i0116').value = username;
         document.querySelector('#i0118').value = password;
-        document.querySelector('#i0011').click();
+        document.querySelector('#idSIButton9').click();
     }, 'xx@live.com', 'xx');
 });
 
