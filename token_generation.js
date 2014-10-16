@@ -9,5 +9,6 @@ browser.visit("https://app.halowaypoint.com/oauth/spartanToken", function() {
     fill("#i0118", "xx").
     pressButton("Sign in", function() {
       console.log(browser.text("body"));
+      browser.close();
     })
 });
