@@ -3,8 +3,11 @@
   "description": "Generates a valid SpartanToken, using HaloWaypoint",
   "author": "Connor Tumbleson <connor.tumbleson@gmail.com>",
   "version": "0.0.1",
+  "repository"  : {
+        "type": "git",
+        "url": "git://github.com/TheTree/343Auth.git"
+  },
   "dependencies": {
-    "phantom": "0.5.7",
-    "casperjs": "1.1.0-beta3"
+    "zombie": "2.0.8"
   }
 }
