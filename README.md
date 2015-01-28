@@ -9,4 +9,4 @@ SpartanToken generation
 ### Install
  * `git clone git@github.com:TheTree/343Auth.git`
  * `npm install`
- * `node token-generation.js`
+ * `node token_generation.js`
