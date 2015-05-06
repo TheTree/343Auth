@@ -1,3 +1,5 @@
+#Deprecated! See new version [here](https://github.com/TheTree/branch-vnext-auth)
+
 # 343-Authentication
 SpartanToken generation
 
